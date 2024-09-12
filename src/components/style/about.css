@@ -1,0 +1,15 @@
+.ImageSegment {
+    max-width: 13vw;
+    height: auto;
+    padding-left: 3%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+.AboutText {
+    text-align: center;
+    position: flex;
+    flex-direction: column;
+    margin-right: auto;
+    margin-left: auto;
+}

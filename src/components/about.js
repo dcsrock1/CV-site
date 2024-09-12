@@ -8,9 +8,15 @@ function About() {
                 <h1>About Me<br/>Who is Charles Fletcher?</h1>
                 <h5>This page lays out all relevant information about who I am</h5>
             </div>
-            <div class="InfoContainer">
-                <img class="ImageSegment"></img>
+            <br/><br/><br/>
+            <div class="InfoContainerS">
+                <img class="ImageSegment" src="/portrait.jpg" alt=""></img>
+                <div class="AboutText">
+                    <h3>About Me</h3>
+                    <p>TEST TEST TEST<br></br>TEST TEST TEST</p>
+                </div>
             </div>
+            <br/><br/><br/>
         </>
     );
 }

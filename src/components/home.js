@@ -11,7 +11,7 @@ function Home() {
                 <h5>My portfolio for employment, qualification and achievement</h5>
             </div>
             
-            <div class="InfoContainer">
+            <div class="InfoContainerD">
                 <div class="InfoSegment">
                     <h4>About Me</h4>
                     <p>I'm a passionate and hardworking developer with a lot of experience in real world practical applications.</p>

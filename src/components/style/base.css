@@ -8,7 +8,16 @@
     padding: 10px;
 }
 
-.InfoContainer {
+.InfoContainerS {
+    display: flex;
+    flex-direction: row;
+    background-color: #fff0f5;
+    width: 80%;
+    margin: auto;
+    border: 3px solid #808080;
+}
+
+.InfoContainerD {
     display: flex;
     flex-direction: row;
     padding: 5%;
@@ -17,7 +26,6 @@
     text-align: center;
     margin: auto;   
     width: 40%;
-    
     padding-left: 3%;
     padding-right: 3%;
     padding-bottom: 5%;
