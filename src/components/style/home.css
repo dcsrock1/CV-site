@@ -1,35 +1,3 @@
-body {
-    background-image: url("/public/background1920x1080.jpg");
-    background-size: cover;
-}
-
-.containers {
-    position: relative;
-    text-align: center;
-    margin: auto;
-    width: 50%;
-    border: 3px solid #808080;
-    background-color: #fff0f5;
-    padding: 10px;
-}
-
-.subContainers {
-    display: flex;
-    flex-direction: row;
-    padding: 5%;
-}
-.subSegments {
-    text-align: center;
-    margin: auto;   
-    width: 40%;
-    
-    padding-left: 3%;
-    padding-right: 3%;
-    padding-bottom: 5%;
-    border: 3px solid #808080;
-    background-color: #fff0f5;
-}
-
 .segmentBtn {
     border-radius: 4px;
     background: #808080;
@@ -40,7 +8,6 @@ body {
     cursor: pointer;
     transition: all 0.2s ease-in-out;
     text-decoration: solid;
-    /* Second Nav */
     &:hover {
         transition: all 0.2s ease-in-out;
         background: #000000;
