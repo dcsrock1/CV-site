@@ -1,8 +1,11 @@
+import "./style/base.css"
 import "./style/contact.css"
 
 function Contact() {
     return (
-        <h1>PLACEHOLDER CONTACT PAGE</h1>
+        <>
+            <h1>PLACEHOLDER CONTACT PAGE</h1>
+        </>
     );
 }
 
