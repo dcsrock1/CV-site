@@ -6,6 +6,7 @@ function Projects() {
         <>
             <h1>PLACEHOLDER PROJECT PAGE</h1>
         </>
+        
     );
 }
 
