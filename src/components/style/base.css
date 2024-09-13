@@ -4,14 +4,14 @@
     margin: auto;
     width: 50%;
     border: 3px solid #808080;
-    background-color: #fff0f5;
+    background-color: #cccccc;
     padding: 10px;
 }
 
 .InfoContainerS {
     display: flex;
     flex-direction: row;
-    background-color: #fff0f5;
+    background-color: #cccccc;
     width: 60%;
     margin: auto;
     border: 3px solid #808080;
@@ -30,5 +30,5 @@
     padding-right: 3%;
     padding-bottom: 5%;
     border: 3px solid #808080;
-    background-color: #fff0ff;
+    background-color: #cccccc;
 }

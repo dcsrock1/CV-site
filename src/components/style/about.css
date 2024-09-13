@@ -14,13 +14,27 @@
     margin-left: auto;
 }
 
-.BarContainer {
-    background-color: white;
-    width: 70%;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
+.DuelAligner {
+   display: flex;
+   flex-direction: row; 
 }
+
+.BarContainerL {
+    background-color: #cccccc;
+    width: 35%;
+    margin-left: auto;
+    margin-right: 2vh;
+    text-align: center;
+    border-radius: 15px;
+}.BarContainerR {
+    background-color: #cccccc;
+    width: 35%;
+    margin-right: auto;
+    margin-left: 2vh;
+    text-align: center;
+    border-radius: 15px;
+}
+
 
 .skillC {
     width: 95%;
@@ -50,6 +64,26 @@
     width: 35%;
 }
 
+.skillNetworking {
+    width: 75%;
+}
+
+.skillTeamworkFlows {
+    width: 65%;
+}
+
+.skillDatabases {
+    width: 70%;
+}
+
+.skillML {
+    width: 40%;
+}
+
+.skillAdaptability {
+    width: 80%;
+}
+
 .ExperienceBar {
     background-color: #000000;
     border-radius: 15px;
@@ -59,7 +93,8 @@
 } 
 
 .percentage {
-    background-color: #000080;
+    background-color: #0000ff;
+    box-shadow: 0px 0px 10px #000080;
     color: white; 
     padding: 1%; 
     text-align: right; 
