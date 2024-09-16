@@ -1,3 +1,14 @@
+body {
+    background-image: url("/public/background1920x1080.jpg");
+    height: auto;
+    width: auto;
+    background-size: 1920px 1080px;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    background-attachment: fixed;
+}
+
 .TitleContainer {
     position: relative;
     text-align: center;
