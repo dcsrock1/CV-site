@@ -1,5 +1,5 @@
 import React from "react";
-
+impor
 import {
     Box,
     FooterContainer,
@@ -12,7 +12,7 @@ function Footer() {
             <h1>Made with love by Charles Fletcher</h1>
             <FooterContainer>
                 <Row>
-                    <
+                    
                 </Row>
             </FooterContainer>
         </Box>
