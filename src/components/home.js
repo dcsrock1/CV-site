@@ -7,7 +7,7 @@ function Home() {
         <>
             <br/><br/><br/>
             <div class="TitleContainer">
-                <h1>Charles Fletcher's<br/>curriculum vitae</h1>
+                <h1>Charles Fletcher's<br/>Curriculum Vitae</h1>
                 <h4>My portfolio for employment, qualification and achievement</h4>
             </div>
             
