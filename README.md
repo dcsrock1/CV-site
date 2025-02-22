@@ -1,5 +1,3 @@
 # CV for displaying my achievements and experience  
 
-### This site was built using react and was bootstrapped by [Create-React-App](https://github.com/facebook/create-react-app)
-
-This site is still in active development and is not fully deployed in a production sense.
+This site is not yet completed and no information on this site should be taken as fact at this current time
